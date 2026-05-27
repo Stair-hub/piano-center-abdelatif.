@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://stair-hub.github.io/piano-center-abdelatif../sitemap.xml
